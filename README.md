@@ -24,3 +24,8 @@ Collection of useful articles/website for learning programming
 | Contents        | URL           |
 | ------------- |:-------------:|
 | **Tips**     | https://savvyapps.com/blog/swift-tips-for-developers |
+
+## **Interesting Website**
+| Contents        | URL           |
+| ------------- |:-------------:|
+| Developer's Excuses | http://developerexcuses.com/ |
