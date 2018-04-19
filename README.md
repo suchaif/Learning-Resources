@@ -3,6 +3,11 @@ Collection of useful articles/website for learning programming
 
 ## **Swift**
 
+### Beginner
+| Contents        | URL           |
+| ------------- |:-------------:|
+| **Three Swift Anti-Patterns**     | https://medium.com/@jpetrichsr/three-swift-anti-patterns-6c96cf99ea9 |
+
 ## Blog List
 | Contents        | URL           |
 | ------------- |:-------------:|
