@@ -42,3 +42,4 @@ Collection of useful articles/website for learning programming
 | Contents        | URL           |
 | ------------- |:-------------:|
 | Developer's Excuses | http://developerexcuses.com/ |
+| Code Review Best Practice | https://medium.com/palantir/code-review-best-practices-19e02780015f |
