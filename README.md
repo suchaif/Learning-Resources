@@ -37,6 +37,7 @@ Collection of useful articles/website for learning programming
 | Contents        | URL           |
 | ------------- |:-------------:|
 | **Tips**     | https://savvyapps.com/blog/swift-tips-for-developers |
+| **Retain Cycles Check** | https://twitter.com/0xced/status/900692839557992449 |
 
 ## **Interesting Website**
 | Contents        | URL           |
