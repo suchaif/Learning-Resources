@@ -1,6 +1,12 @@
 # Learning-Resources
 Collection of useful articles/website for learning programming
 
+## **API**
+
+| Contents | URL |
+|--------- |:----|
+| **OpenAPI Spec from Swagger** | https://swagger.io/specification/ |
+
 ## **Swift**
 
 ### Beginner
