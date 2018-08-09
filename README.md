@@ -39,8 +39,14 @@ Collection of useful articles/website for learning programming
 | **Tips**     | https://savvyapps.com/blog/swift-tips-for-developers |
 | **Retain Cycles Check** | https://twitter.com/0xced/status/900692839557992449 |
 
+## **Versionoing**
+| Contents        | URL           |
+| ------------- |:-------------:|
+| Sematic Version Spec | https://semver.org/ |
+
 ## **Interesting Website**
 | Contents        | URL           |
 | ------------- |:-------------:|
 | Developer's Excuses | http://developerexcuses.com/ |
 | Code Review Best Practice | https://medium.com/palantir/code-review-best-practices-19e02780015f |
+
