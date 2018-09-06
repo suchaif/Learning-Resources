@@ -55,3 +55,9 @@ Collection of useful articles/website for learning programming
 | Contents | URL |
 | -------- |: -- :|
 | Test Doubles - Fakes, Mocks and Stubs | https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da |
+
+
+## System Design
+| Contents | URL |
+| -------  |:---:|
+| Learn how to design large-scale systems | https://github.com/donnemartin/system-design-primer |
