@@ -1,6 +1,12 @@
 # Learning-Resources
 Collection of useful articles/website for learning programming
 
+## Web
+
+### Database
+| Contents | URL |
+| **Distributed System** | https://medium.freecodecamp.org/a-thorough-introduction-to-distributed-systems-3b91562c9b3c |
+
 ## **Swift**
 
 ### Beginner
@@ -11,8 +17,7 @@ Collection of useful articles/website for learning programming
 ### Guide Line
 | Contents        | URL           |
 | ------------- |:-------------:|
-| **Swift API Design Guidelines**     | https://swift.org/documentation/api-design-guidelines/
- |
+| **Swift API Design Guidelines**     | https://swift.org/documentation/api-design-guidelines/ |
 
 ### Blog List
 | Contents        | URL           |
@@ -51,12 +56,10 @@ Collection of useful articles/website for learning programming
 | Developer's Excuses | http://developerexcuses.com/ |
 | Code Review Best Practice | https://medium.com/palantir/code-review-best-practices-19e02780015f |
 
-
 ## **Testing**
 | Contents        | URL           |
 | ------------- |:-------------:|
 | Test Doubles - Fakes, Mocks and Stubs | https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da |
-
 
 ## System Design
 | Contents | URL |
