@@ -45,6 +45,7 @@ Collection of useful articles/website for learning programming
 | **Unit Test Async Code**     | https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code |
 | **Types of Mock** | https://marcosantadev.com/test-doubles-swift/ |
 
+
 ### Tips
 | Contents        | URL           |
 | ------------- |:-------------:|
@@ -66,6 +67,7 @@ Collection of useful articles/website for learning programming
 | Contents        | URL           |
 | ------------- |:-------------:|
 | Test Doubles - Fakes, Mocks and Stubs | https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da |
+| Write test. Not too many | https://kentcdodds.com/blog/write-tests |
 
 ## System Design
 | Contents | URL |
