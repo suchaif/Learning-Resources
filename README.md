@@ -62,6 +62,7 @@ Collection of useful articles/website for learning programming
 | ------------- |:-------------:|
 | Developer's Excuses | http://developerexcuses.com/ |
 | Code Review Best Practice | https://medium.com/palantir/code-review-best-practices-19e02780015f |
+| 12 Steps to code bettter | https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ |
 
 ## **Testing**
 | Contents        | URL           |
